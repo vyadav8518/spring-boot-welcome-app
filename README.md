@@ -51,6 +51,6 @@ Open a web browser and navigate to:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - your.email@example.com
+Name - Vicky Kumar
 
 Project Link: https://github.com/vyadav8518/spring-boot-welcome-app.git
